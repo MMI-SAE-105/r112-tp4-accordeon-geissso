@@ -4,18 +4,25 @@
 details {
     position: relative;
     width: 130px;
+    overflow: hidden;
+    height: 100px;
 }
 details[open] {
     width: 300px;
 }
-summary{
+details>summary{
     position: absolute;
     top: 0%;
     left: 0%;
 }
-div  {
+details>div  {
     padding-left: 130px;
     width: 170px;
 }
-
+.accordeon{
+    display: flex;
+}
+details:hover{
+    transition: width 0.5s ease-in;
+}
 
