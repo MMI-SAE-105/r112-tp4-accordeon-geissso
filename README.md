@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom :GEISS
+- prénom :Solène
+- URL Netlify :https://stellar-gingersnap-a4544a.netlify.app/
 
 # Travail
 
@@ -24,7 +24,7 @@ details[open] {
 
 Compléter le fichier [accordeon.css](/src/css/components/accordeon.css) et visualiser l'effet sur [index.html](/index.html) .
 
-Vous devez obtenir comme la premiére video sur Moodle.
+Vous devez obtenir comme la première video sur Moodle.
 
 # Manuellement sans JS
 
