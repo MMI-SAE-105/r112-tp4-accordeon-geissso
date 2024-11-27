@@ -5,7 +5,7 @@ details {
     position: relative;
     width: 130px;
     overflow: hidden;
-    height: 100px;
+    height: 150px;
 }
 details[open] {
     width: 300px;
